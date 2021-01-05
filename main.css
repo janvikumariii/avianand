@@ -1,0 +1,57 @@
+body{
+    background-image: url(w.jpg) ;
+    background-size: cover;
+   
+}
+
+
+.one
+{
+   border-radius: 150%;
+   margin-left: 545px;
+   margin-top: 100px;
+   width: 24%;
+}
+.two
+{
+    font-style: oblique;
+    font-family: monospace;
+    margin-top: 50px;
+    font-size: 15px;
+    text-align: center;
+    display: block;
+    position: absolute;
+    margin-left: 480px;
+    padding: 45px;
+
+}
+.three
+{
+    font-size: 60px;
+    text-align: center;
+    display: block;
+
+}
+.four
+{
+    margin-left: 600px;
+    padding: 10px;
+    width: 40px;
+
+}
+.five
+{
+    width: 42px;
+    padding: 10px;
+
+}
+.six
+{
+    width: 45px;
+    padding: 10px;
+}
+.seven 
+{
+    width: 42px;
+    padding: 10px;
+}
