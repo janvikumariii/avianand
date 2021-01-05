@@ -1,5 +1,5 @@
 body{
-    background-image: url(w.jpg) ;
+    background-image: url(r.jpg) ;
     background-size: cover;
    
 }
@@ -8,7 +8,7 @@ body{
 .one
 {
    border-radius: 150%;
-   margin-left: 545px;
+   margin-left: 560px;
    margin-top: 100px;
    width: 24%;
 }
@@ -23,6 +23,7 @@ body{
     position: absolute;
     margin-left: 480px;
     padding: 45px;
+    color: white;
 
 }
 .three
@@ -30,11 +31,14 @@ body{
     font-size: 60px;
     text-align: center;
     display: block;
+    margin-left: 25px;
+   
+    
 
 }
 .four
 {
-    margin-left: 600px;
+    margin-left: 630px;
     padding: 10px;
     width: 40px;
 
