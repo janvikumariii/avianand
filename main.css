@@ -1,5 +1,5 @@
 body{
-    background-image: url(r.jpg) ;
+    background-image: url(s.jpg) ;
     background-size: cover;
    
 }
@@ -23,7 +23,7 @@ body{
     position: absolute;
     margin-left: 480px;
     padding: 45px;
-    color: white;
+    color:gray;
 
 }
 .three
@@ -32,6 +32,7 @@ body{
     text-align: center;
     display: block;
     margin-left: 25px;
+    color: wheat;
    
     
 
